@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbit-helloworld-product/rabbit-helloworld-product.iml" filepath="$PROJECT_DIR$/rabbit-helloworld-product/rabbit-helloworld-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-spring-boot-test/rabbit-spring-boot-test.iml" filepath="$PROJECT_DIR$/rabbit-spring-boot-test/rabbit-spring-boot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-spring-test-two/rabbit-spring-test-two.iml" filepath="$PROJECT_DIR$/rabbit-spring-test-two/rabbit-spring-test-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/rabbitmq.iml" />
+    </modules>
+  </component>
+</project>
